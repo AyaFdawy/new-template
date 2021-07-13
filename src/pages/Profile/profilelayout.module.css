@@ -1,0 +1,32 @@
+
+
+.cardprofile {
+  margin-top: 20px;
+  border-radius: 3px;
+  /* box-shadow: 0px 1px 7px #b4b8be; */
+  width: 55rem;
+}
+.text-center>.nick{
+  color: #cecece;
+}
+
+.imgprofile {
+  position: relative;
+}
+.editimg {
+  position: absolute;
+  top: 179px;
+  right: 13px;
+  background-color: #062847;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 50%;
+  text-align: center;
+  cursor: pointer;
+}
+
+.iconimg {
+  color: white;
+  font-size: 29px;
+}
